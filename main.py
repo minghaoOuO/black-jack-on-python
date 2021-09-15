@@ -75,3 +75,4 @@ while True:
     if react == "N":
         print('Thanks for playing this game,bye~')
         break 
+        
