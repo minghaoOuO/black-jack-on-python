@@ -87,4 +87,3 @@ def end_print():
     print("--------------")
     show_card_player()
     show_card_com()
-    
